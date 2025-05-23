@@ -16,7 +16,7 @@ Cabeçalho (Header):
 * Parágrafo explicativo sobre como o desmatamento afeta o ambiente e as pessoas.
 * Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
 
-#### Problemas:
+#### Benefícios:
 
 Seção detalhando os principais problemas gerados pelo desmatamento:
 Aumento das enchentes.
